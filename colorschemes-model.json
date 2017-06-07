@@ -1,0 +1,5 @@
+{
+	"groups": {
+		"nix_shell": { "fg": "white", "bg": "darkcyan", "attrs": [] }
+	}
+}
