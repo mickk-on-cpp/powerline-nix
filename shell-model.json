@@ -17,7 +17,7 @@
 				"priority": 50
 			},
 			{
-				"function": "powerline-nix.nix_shell_segment",
+				"function": "powerline_nix.nix_shell_segment",
 				"priority": 50
 			},
 			{
