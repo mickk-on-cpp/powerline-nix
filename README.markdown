@@ -1,7 +1,7 @@
 Powerline Nix
 =============
 
-A [Powerline] segment for **nix-shell** (one of the [Nix] tools). Similar, and inspired by the stock [**virtualenv**
+A [Powerline] segment for **nix-shell** (one of the [Nix] tools). Similar to, and inspired by the stock [**virtualenv**
 segment][virtualenv segment] although not quite as informative. The segment activates whenever in a **nix-shell**
 session:
 
