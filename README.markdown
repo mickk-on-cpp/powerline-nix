@@ -53,6 +53,6 @@ Licensed under the MIT License. See the accompanying [LICENSE] file for details.
 [Powerline]: https://powerline.readthedocs.io/en/latest/
 [Nix]: https://nixos.org/nix/
 [virtualenv segment]: http://powerline.readthedocs.io/en/master/configuration/segments/common.html#powerline.segments.common.env.virtualenv
-[demo]: https://github.com/mickk-on-cpp/powerline-nix/blob/master/demo.png
+[demo]: https://github.com/other-mickk/powerline-nix/blob/master/demo.png
 [config instructions]: http://powerline.readthedocs.io/en/master/configuration.html
-[LICENSE]: https://github.com/mickk-on-cpp/powerline-nix/blob/master/LICENSE
+[LICENSE]: https://github.com/other-mickk/powerline-nix/blob/master/LICENSE
