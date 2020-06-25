@@ -34,7 +34,7 @@ Add the segment to your shell powerline and you should be good to go:
 
 ```json
 {
-    "function": "powerline-nix.nix_shell_segment",
+    "function": "powerline_nix.nix_shell_segment",
     "priority": 50
 }
 ```
